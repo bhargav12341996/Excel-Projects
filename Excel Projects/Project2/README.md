@@ -15,17 +15,19 @@ Bike_buyers sheet from excel file is where we have the original data. This is mo
    
     =IF(L2>54,"Old",IF(L2>=31,"Middle Aged", IF(L2<31,"Adolescent","Invalid")))
 
-![image](https://github.com/user-attachments/assets/d4da1f7d-da74-459c-8e0d-5a4f7b5f6fc6)
+![1](https://github.com/user-attachments/assets/78e23a6d-67d9-4789-b708-9d1182b81f85)
+
 
 
 Created Pivot tables and pivot charts to analyze the data.
 
-![image](https://github.com/user-attachments/assets/d21933fd-3884-4569-803e-5240818ce676)
+![2](https://github.com/user-attachments/assets/38c5c5cc-9987-485a-9cb2-d7a2459ae57f)
+
 
 Created dynamic dashboards using multiple pivot charts and dynamic slicers by establishing connections within the pivot tables using "Report Connections"
 
-![image](https://github.com/user-attachments/assets/05122937-a00a-4c0f-bdaf-8f98575db678)
 
+![3](https://github.com/user-attachments/assets/5973f6d6-6f45-4d12-aae2-38e765a9d364)
 
 
 **Observations:**
@@ -34,7 +36,9 @@ Created dynamic dashboards using multiple pivot charts and dynamic slicers by es
 3. Very few people are commuting by bike when distance is greater than 10 miles.
 4. In Adolescent & Old Age groups, very few people are commuting by bikes. However, majority of middle ages people are commuting by bikes.
 
-![image](https://github.com/user-attachments/assets/f3ce9408-aea9-4037-a8e5-48294c74f45c)
+![4](https://github.com/user-attachments/assets/3e0392e3-547b-401a-aff5-523f45a9ee4f)
+
+
 
 
 Resources:
