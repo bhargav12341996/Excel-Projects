@@ -6,10 +6,15 @@ The 3 techniques used for forecasting in this project are:
 
 1. Using Forecast function.
 
+   ![image](https://github.com/user-attachments/assets/b82272b9-0f83-495e-8c8e-0a35e9ddb8f4)
+
 
 2. Forecasting using trendline & R square:
 
    We can choose the best trendline using highest R2 value from different trendline options available
+
+   ![image](https://github.com/user-attachments/assets/1557b14a-0202-4332-a1a3-fec48b77326e)
+
 
   What is R square?
 
@@ -19,6 +24,8 @@ The 3 techniques used for forecasting in this project are:
 3. Forecasting using forecast sheet:
 
    In this we method we use Forecast Sheet from Data Tab to forecast values. We can change the forecast end date dynamically and set the confidence interval as per the requirements.
+
+   ![image](https://github.com/user-attachments/assets/8f62d9a5-52ce-4081-aa27-4834acae2a47)
 
 
 Dataset: https://github.com/bhargav12341996/Excel-Projects/blob/main/Excel%20Projects/Forecasting%20Using%20Excel/Dataset.xlsx
