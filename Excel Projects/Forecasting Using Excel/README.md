@@ -6,13 +6,15 @@ The 3 techniques used for forecasting in this project are:
 
 1. Using Forecast function.
 
-   ![image](https://github.com/user-attachments/assets/c106a665-abb9-47e6-917f-79c0b0d48afb)
+   ![image](https://github.com/user-attachments/assets/b82272b9-0f83-495e-8c8e-0a35e9ddb8f4)
+
 
 2. Forecasting using trendline & R square:
 
    We can choose the best trendline using highest R2 value from different trendline options available
 
-  ![image](https://github.com/user-attachments/assets/22c782c3-8f6e-4fda-99e7-2f0268d39587)
+   ![image](https://github.com/user-attachments/assets/1557b14a-0202-4332-a1a3-fec48b77326e)
+
 
   What is R square?
 
@@ -21,14 +23,11 @@ The 3 techniques used for forecasting in this project are:
 
 3. Forecasting using forecast sheet:
 
-   ![image](https://github.com/user-attachments/assets/2a6e6de4-92a6-4dca-a2b0-77056b5ef205)
-
    In this we method we use Forecast Sheet from Data Tab to forecast values. We can change the forecast end date dynamically and set the confidence interval as per the requirements.
 
-   
-   ![image](https://github.com/user-attachments/assets/c2e89bcc-573f-4c99-bba4-564d11576674)
+   ![image](https://github.com/user-attachments/assets/8f62d9a5-52ce-4081-aa27-4834acae2a47)
 
 
-Dataset: https://github.com/bhargav12341996/Excel-Projects/blob/main/Excel%20Projects/Project1/Dataset.xlsx
+Dataset: https://github.com/bhargav12341996/Excel-Projects/blob/main/Excel%20Projects/Forecasting%20Using%20Excel/Dataset.xlsx
 
-Project File: https://github.com/bhargav12341996/Excel-Projects/blob/main/Excel%20Projects/Project1/Project%20File.xlsx
+Project File: https://github.com/bhargav12341996/Excel-Projects/blob/main/Excel%20Projects/Forecasting%20Using%20Excel/Project%20File.xlsx
