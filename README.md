@@ -1,6 +1,6 @@
 # Excel-Projects
 
-In the Excel Projects folder, you will find a collection of diverse Excel-based projects demonstrating data analysis, forecasting, and reporting techniques. Each project is organized into its own subfolder with detailed documentation to help you understand the objectives, methodologies, and results.
+In the [Excel Projects](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects) folder, you will find a collection of diverse Excel-based projects demonstrating data analysis, forecasting, and reporting techniques. Each project is organized into its own subfolder with detailed documentation to help you understand the objectives, methodologies, and results.
 
 # Project 1:
 
