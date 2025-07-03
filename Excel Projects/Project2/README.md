@@ -43,5 +43,8 @@ Created dynamic dashboards using multiple pivot charts and dynamic slicers by es
 
 Resources:
 <br>
-Dataset File link: https://github.com/bhargav12341996/BIke_Sales_Analysis_Using_Excel/blob/main/Dataset.xlsx
-Project File link: https://github.com/bhargav12341996/BIke_Sales_Analysis_Using_Excel/blob/main/Bike%20Sales%20Analysis.xlsx
+Dataset File link:
+https://github.com/bhargav12341996/Excel-Projects/blob/main/Excel%20Projects/Project2/Dataset.xlsx
+
+Project File link: 
+https://github.com/bhargav12341996/Excel-Projects/blob/main/Excel%20Projects/Project2/Bike%20Sales%20Analysis.xlsx
