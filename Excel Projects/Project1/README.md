@@ -29,6 +29,6 @@ The 3 techniques used for forecasting in this project are:
    ![image](https://github.com/user-attachments/assets/c2e89bcc-573f-4c99-bba4-564d11576674)
 
 
-Dataset: https://github.com/bhargav12341996/Forecasting-using-Excel/blob/main/Dataset.xlsx
+Dataset: https://github.com/bhargav12341996/Excel-Projects/blob/main/Excel%20Projects/Project1/Dataset.xlsx
 
-Project File: https://github.com/bhargav12341996/Forecasting-using-Excel/blob/main/Project%20File.xlsx
+Project File: https://github.com/bhargav12341996/Excel-Projects/blob/main/Excel%20Projects/Project1/Project%20File.xlsx
