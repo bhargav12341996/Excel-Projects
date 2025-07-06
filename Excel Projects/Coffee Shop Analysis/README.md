@@ -1,81 +1,46 @@
+# Objective of the Project: <br>
 
-# Objective of the Project:
-Store “Vrinda” wants to analyze the annual sales report of 2022 to understand their customer behavior to improve its sales strategy for 2023.
+To analyze and visualize coffee shop sales data from three franchise locations in New York City using Microsoft Excel. <br>
 
-# Insights we are trying to find from the project:
-•	Which month got the highest sales and orders? <br>
-•	Who purchased more, men or women? <br>
-•	What are the different order statuses? <br>
-•	Compare the sales and orders using single chart. <br>
-•	List of top 10 states contributing to the sales. <br>
-•	Which channel is contributing to maximum sales? <br>
-•	Highest selling category? <br>
-•	Relation between age and gender based on number of orders.
 
-# Steps involved in the project:
+# Insights we are trying to find from the project: <br>
+
+Identify monthly revenue trends to spot seasonal patterns. <br>
+Analyze busiest days and hours to optimize staffing and store hours. <br>
+Compare sales performance across store locations. <br>
+Discover top-selling product categories and types. <br>
+Uncover customer buying behavior to support data-driven decisions. <br>
+
+# Steps involved in the project: <br>
+
 1.	Data Cleaning <br>
 2.	Data Processing <br>
 3.	Data Analysis <br>
-4.	Preparing Dynamic dashboards with slicers. <br>
-5.	Sharing the report/insights. <br>
+4.	Dashboard Creation <br>
+5.	Adding Slicers & Final Touches <br>
 
-# Data Cleaning:
-As part of data cleaning we check for any duplicate values, missing/null values, inconsistencies or anomalies in the data.
-<br>
+# Data Cleaning: <br>
 
-# Findings:<br>
-Gender has M & Men for Men’s category, W & Women for Women’s category. <br>
-
-Using Ctrl+H, we replaced  the values and made the data consistent by having only Men & women. <br>
-
-![image](https://github.com/user-attachments/assets/2c7f7b4a-c9f8-4a84-9bfb-0e962f438a85)
-
-<br>
- 
-Qty has One & two, so using Ctrl+H we place them with 1 & 2.
-
- ![image](https://github.com/user-attachments/assets/5197435c-3ea5-41eb-aca4-0cf950b92bbc)
-
-
+Ensured the raw data was accurate, complete, and free from errors or inconsistencies. <br>
 
 # Data Processing: <br>
-As part of data processing, we are creating two new custom columns “Age group” and “Month”. <br>
 
-We are using Nested IF function to create the age group:<br>
-![image](https://github.com/user-attachments/assets/56be159d-a915-4d94-9d2c-7e7530904025)
-
- 
-
-Using the text function, we are extracting the month.<br>
-
-![image](https://github.com/user-attachments/assets/5767e6c4-7567-462e-abe1-ecec31507076)
-
- 
-# Data Analysis: <br>
-
-For data analysis, we used Pivot tables to analyze the data and created a dashboard with the help of slicers. <br>
-![image](https://github.com/user-attachments/assets/7abfb815-7ac0-43b6-abfc-36404a1e7d19)
-
- 
-
-# Dashboard:<br>
-![image](https://github.com/user-attachments/assets/9a6dfda5-6575-4bcb-9e4c-a7a391ebd9f5)
-
- 
+Engineered new fields like Revenue, Month, Weekday, and Hour to enrich the dataset. <br>
 
 
-# Insights: <br>
-•	March got the highest sales of 1.92M and 2819 orders <br>
-•	Women made more purchases that is 64%, compared to Men who made 36% of purchases. <br>
-•	Adults (Age group 30-50) made most purchases and contributed around 50% of sales. <br>
-•	Top 5 States: <br>
-![image](https://github.com/user-attachments/assets/ab84ee61-c7a8-4d3d-ac8e-20f555fb2a46)
+![image](https://github.com/user-attachments/assets/6a48b85a-d56f-4f58-8034-6879de53fe99)
 
- 
+#  Data Analysis: <br>
+Used Pivot Tables to explore sales patterns by time, store location, and product categories. <br>
 
-•	Amazon is contributing to the highest sales with 35% of sales. <br>
 
-Dataset : Click [here](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Vrindha%20Store%20Analysis/Dataset) <br>
-Project file: Click [here](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Vrindha%20Store%20Analysis/Project%20File)
+![image](https://github.com/user-attachments/assets/c867b972-00d6-4e21-9963-08a017c439e9) 
+
+
+![image](https://github.com/user-attachments/assets/63b731f0-e1f4-487e-b8f2-4bce8a2018f6)
+
+
+![image](https://github.com/user-attachments/assets/e099b01f-846c-43e7-9813-7ef6f1489d02)
+
 
 
