@@ -1,3 +1,7 @@
+# Credits: <br>
+
+This project is from Maven Analytics Udemy Course - MO 201 <br>
+
 # Overview of the Project: <br>
 
 You just moved to New York city and are considering purchasing a property to list for rental in Airbnb marketplace.  <br>
@@ -78,9 +82,7 @@ The primary goal is to leverage advanced excel skills to analyze the Airbnb land
 
 ![image](https://github.com/user-attachments/assets/a3104867-e6ad-4496-938e-544ceaac86ea)
 
-# Credits: <br>
 
-This project is from Maven Analytics Udemy Course - MO 201
 
 
 
