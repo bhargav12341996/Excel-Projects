@@ -48,13 +48,17 @@ Used Pivot Tables to explore sales patterns by time, store location, and product
 ![image](https://github.com/user-attachments/assets/7e398e60-a30f-4c41-9a8d-49f7ee5d2974)<br>
 
 # Insights: <br>
+•	March got the highest sales of 1.92M and 2819 orders <br>
+•	Women made more purchases that is 64%, compared to Men who made 36% of purchases. <br>
+•	Adults (Age group 30-50) made most purchases and contributed around 50% of sales. <br>
+•	Top 5 States: <br>
+![image](https://github.com/user-attachments/assets/ab84ee61-c7a8-4d3d-ac8e-20f555fb2a46)
 
-•	The coffee shop made just under 150,000 transactions in the first half of 2023. <br>
-•	Monthly revenue ranged from $76,145 in January to $166,486 in June. <br>
-•	The busiest hours for sales were between 7:00 AM and 10:00 AM, with a significant spike in Lower Manhattan location. <br>
-•	Coffee accounted for over 58,000 transactions, making it the top-selling product category. <br>
-•	The top 15 product types contributed to most sales, with premium coffee beans priced as high as $45 per unit. <br>
+ 
 
-Dataset: Click [here](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Coffee%20Shop%20Analysis/Dataset)<br>
-Project File: Click [here](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Coffee%20Shop%20Analysis/Project%20File)
+•	Amazon is contributing to the highest sales with 35% of sales. <br>
+
+Dataset : Click [here](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Vrindha%20Store%20Analysis/Dataset) <br>
+Project file: Click [here](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Vrindha%20Store%20Analysis/Project%20File)
+
 
