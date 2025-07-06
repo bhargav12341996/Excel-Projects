@@ -9,3 +9,8 @@ In the [Excel Projects](https://github.com/bhargav12341996/Excel-Projects/tree/m
 # Project 2:
 
 [Forecasting Using Excel](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Forecasting%20Using%20Excel)
+
+# Project 3:
+
+[Advanced Excel Functions](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Advanced%20Excel%20Functions)
+
