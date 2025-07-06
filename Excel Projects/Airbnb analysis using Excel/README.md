@@ -74,7 +74,7 @@ The primary goal is to leverage advanced excel skills to analyze the Airbnb land
 
 ![image](https://github.com/user-attachments/assets/a2b06c73-5b1d-4aff-9d4b-9af8af0059d0)
 
-•	Dynamic Pivot Chart with Slicers & Timelines:<br>
+# •	Dynamic Pivot Chart with Slicers & Timelines:<br>
 
 ![image](https://github.com/user-attachments/assets/a3104867-e6ad-4496-938e-544ceaac86ea)
 
