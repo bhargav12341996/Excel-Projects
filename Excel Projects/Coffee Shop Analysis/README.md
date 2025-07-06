@@ -55,5 +55,6 @@ Used Pivot Tables to explore sales patterns by time, store location, and product
 •	Coffee accounted for over 58,000 transactions, making it the top-selling product category. <br>
 •	The top 15 product types contributed to most sales, with premium coffee beans priced as high as $45 per unit. <br>
 
-
+Dataset: Click [here](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Coffee%20Shop%20Analysis/Dataset)<br>
+Project File: Click [here](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Coffee%20Shop%20Analysis/Project%20File)
 
