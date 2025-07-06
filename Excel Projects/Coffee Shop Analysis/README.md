@@ -40,7 +40,20 @@ Used Pivot Tables to explore sales patterns by time, store location, and product
 ![image](https://github.com/user-attachments/assets/63b731f0-e1f4-487e-b8f2-4bce8a2018f6)
 
 
-![image](https://github.com/user-attachments/assets/e099b01f-846c-43e7-9813-7ef6f1489d02)
+![image](https://github.com/user-attachments/assets/e099b01f-846c-43e7-9813-7ef6f1489d02) <br>
+
+# Dashboard Creation: <br>
+
+
+![image](https://github.com/user-attachments/assets/7e398e60-a30f-4c41-9a8d-49f7ee5d2974)<br>
+
+# Insights: <br>
+
+•	The coffee shop made just under 150,000 transactions in the first half of 2023. <br>
+•	Monthly revenue ranged from $76,145 in January to $166,486 in June. <br>
+•	The busiest hours for sales were between 7:00 AM and 10:00 AM, with a significant spike in Lower Manhattan location. <br>
+•	Coffee accounted for over 58,000 transactions, making it the top-selling product category. <br>
+•	The top 15 product types contributed to most sales, with premium coffee beans priced as high as $45 per unit. <br>
 
 
 
