@@ -21,11 +21,16 @@ Store “Vrinda” wants to analyze the annual sales report of 2022 to understan
 
 # Data Cleaning:
 As part of data cleaning we check for any duplicate values, missing/null values, inconsistencies or anomalies in the data.
-Findings:
-Gender has M & Men for Men’s category, W & Women for Women’s category.
+<br>
 
-Using Ctrl+H, we replaced  the values and made the data consistent by having only Men & women.
+# Findings:<br>
+Gender has M & Men for Men’s category, W & Women for Women’s category. <br>
 
+Using Ctrl+H, we replaced  the values and made the data consistent by having only Men & women. <br>
+
+![image](https://github.com/user-attachments/assets/2c7f7b4a-c9f8-4a84-9bfb-0e962f438a85)
+
+<br>
  
 Qty has One & two, so using Ctrl+H we place them with 1 & 2.
 
