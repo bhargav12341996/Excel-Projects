@@ -14,7 +14,10 @@ In the [Excel Projects](https://github.com/bhargav12341996/Excel-Projects/tree/m
 
 [Advanced Excel Functions](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Advanced%20Excel%20Functions)
 
-# Project 4 :
+# Project 4:
 
 [Vrinda Store Analysis](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Vrindha%20Store%20Analysis)
 
+# Project 5:
+
+[Coffee Shop Analysis](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Coffee%20Shop%20Analysis)
