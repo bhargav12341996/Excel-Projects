@@ -4,20 +4,20 @@ Store “Vrinda” wants to analyze the annual sales report of 2022 to understan
 
 # Insights we are trying to find from the project:
 •	Which month got the highest sales and orders? <br>
-•	Who purchased more, men or women?
-•	What are the different order statuses?
-•	Compare the sales and orders using single chart.
-•	List of top 10 states contributing to the sales.
-•	Which channel is contributing to maximum sales?
-•	Higheset selling category?
+•	Who purchased more, men or women? <br>
+•	What are the different order statuses? <br>
+•	Compare the sales and orders using single chart. <br>
+•	List of top 10 states contributing to the sales. <br>
+•	Which channel is contributing to maximum sales? <br>
+•	Higheset selling category? <br>
 •	Relation between age and gender based on number of orders.
 
 # Steps involved in the project:
-1.	Data Cleaning
-2.	Data Processing
-3.	Data Analysis
-4.	Preparing Dynamic dashboards with slicers.
-5.	Sharing the report/insights.
+1.	Data Cleaning <br>
+2.	Data Processing <br>
+3.	Data Analysis <br>
+4.	Preparing Dynamic dashboards with slicers. <br>
+5.	Sharing the report/insights. <br>
 
 # Data Cleaning:
 As part of data cleaning we check for any duplicate values, missing/null values, inconsistencies or anomalies in the data.
