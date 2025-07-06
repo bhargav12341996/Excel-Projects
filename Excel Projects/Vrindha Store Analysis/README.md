@@ -64,11 +64,11 @@ For data analysis, we used Pivot tables to analyze the data and created a dashbo
  
 
 
-# Insights:
-•	March got the highest sales of 1.92M and 2819 orders
-•	Women made more purchases that is 64%, compared to Men who made 36% of purchases.
-•	Adults (Age group 30-50) made most purchases and contributed around 50% of sales.
-•	Top 5 States:
+# Insights: <br>
+•	March got the highest sales of 1.92M and 2819 orders <br>
+•	Women made more purchases that is 64%, compared to Men who made 36% of purchases. <br>
+•	Adults (Age group 30-50) made most purchases and contributed around 50% of sales. <br>
+•	Top 5 States: <br>
 ![image](https://github.com/user-attachments/assets/ab84ee61-c7a8-4d3d-ac8e-20f555fb2a46)
 
  
