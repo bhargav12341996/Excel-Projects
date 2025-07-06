@@ -9,7 +9,7 @@ Store “Vrinda” wants to analyze the annual sales report of 2022 to understan
 •	Compare the sales and orders using single chart. <br>
 •	List of top 10 states contributing to the sales. <br>
 •	Which channel is contributing to maximum sales? <br>
-•	Higheset selling category? <br>
+•	Highest selling category? <br>
 •	Relation between age and gender based on number of orders.
 
 # Steps involved in the project:
