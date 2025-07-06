@@ -34,30 +34,42 @@ Using Ctrl+H, we replaced  the values and made the data consistent by having onl
  
 Qty has One & two, so using Ctrl+H we place them with 1 & 2.
 
- 
+ ![image](https://github.com/user-attachments/assets/5197435c-3ea5-41eb-aca4-0cf950b92bbc)
 
 
-Data Processing:
-As part of data processing, we are creating two new custom columns “Age group” and “Month”.
 
-We are using Nested IF function to create the age group:
- 
+# Data Processing: <br>
+As part of data processing, we are creating two new custom columns “Age group” and “Month”. <br>
 
-Using the text function, we are extracting the month.
- 
-Data Analysis: For data analysis, we used Pivot tables to analyze the data and created a dashboard with the help of slicers.
+We are using Nested IF function to create the age group:<br>
+![image](https://github.com/user-attachments/assets/56be159d-a915-4d94-9d2c-7e7530904025)
 
  
 
-Dashboard:
+Using the text function, we are extracting the month.<br>
+
+![image](https://github.com/user-attachments/assets/5767e6c4-7567-462e-abe1-ecec31507076)
+
+ 
+# Data Analysis: <br>
+
+For data analysis, we used Pivot tables to analyze the data and created a dashboard with the help of slicers. <br>
+![image](https://github.com/user-attachments/assets/7abfb815-7ac0-43b6-abfc-36404a1e7d19)
+
+ 
+
+# Dashboard:<br>
+![image](https://github.com/user-attachments/assets/9a6dfda5-6575-4bcb-9e4c-a7a391ebd9f5)
+
  
 
 
-Insights:
+# Insights:
 •	March got the highest sales of 1.92M and 2819 orders
 •	Women made more purchases that is 64%, compared to Men who made 36% of purchases.
 •	Adults (Age group 30-50) made most purchases and contributed around 50% of sales.
 •	Top 5 States:
+![image](https://github.com/user-attachments/assets/ab84ee61-c7a8-4d3d-ac8e-20f555fb2a46)
 
  
 
