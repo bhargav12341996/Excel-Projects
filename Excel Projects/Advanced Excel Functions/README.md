@@ -41,23 +41,3 @@ Welcome to the Excel Repository dedicated to data science and analysis! This rep
 12. **STATISTICAL FUNCTIONS:**
     - Excel file incorporating statistical functions like AVERAGE, STDEV, and CORREL for basic data analysis.
 
-## Folder Structure:
-
-- Each practice sheet is organized into appropriately labeled folders for easy navigation.
-- The Excel dashboard is located in the "Excel Dashboard" folder.
-
-## How to Use:
-
-1. Clone the repository to your local machine using the following command:
-```
-   git clone [htpts://github.com/Moogli0602/Advance-Excel-Projects-Assignments]
-   ```
-2. Open the desired Excel practice sheet using Microsoft Excel or any compatible spreadsheet software.
-3. Explore the functions and features demonstrated in each sheet.
-
-### Contributions:
-
-- Contributions are encouraged! If you have additional practice sheets, functions, or improvements, please submit a pull request.
-
-Happy Excel practicing for Data Science!
-
