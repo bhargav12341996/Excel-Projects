@@ -78,6 +78,9 @@ The primary goal is to leverage advanced excel skills to analyze the Airbnb land
 
 ![image](https://github.com/user-attachments/assets/a3104867-e6ad-4496-938e-544ceaac86ea)
 
+# Credits: <br>
+
+This project is from Maven Analytics Udemy Course - MO 201
 
 
 
