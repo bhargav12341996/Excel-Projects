@@ -75,7 +75,7 @@ For data analysis, we used Pivot tables to analyze the data and created a dashbo
 
 •	Amazon is contributing to the highest sales with 35% of sales. <br>
 
-Dataset : Click [here](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Vrindha%20Store%20Analysis/Dataset)
+Dataset : Click [here](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Vrindha%20Store%20Analysis/Dataset) <br>
 Project file: Click [here](https://github.com/bhargav12341996/Excel-Projects/tree/main/Excel%20Projects/Vrindha%20Store%20Analysis/Project%20File)
 
 
