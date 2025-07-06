@@ -3,7 +3,7 @@
 Store “Vrinda” wants to analyze the annual sales report of 2022 to understand their customer behavior to improve its sales strategy for 2023.
 
 # Insights we are trying to find from the project:
-•	Which month got the highest sales and orders?
+•	Which month got the highest sales and orders? <br>
 •	Who purchased more, men or women?
 •	What are the different order statuses?
 •	Compare the sales and orders using single chart.
